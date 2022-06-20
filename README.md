@@ -7,7 +7,7 @@ Ran t-tests to determine if the manufacturing lots are statistically different f
 Designed a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
 - Data Source: MechaCar_mpg.csv and Suspension_Coil.csv
-- Data Tools: tidyverse, dplyr, ggplot2 and MechaCarChallenge.RScript.
+- Data Tools: tidyverse, dplyr, and MechaCarChallenge.RScript.
 - Software: RStudio and R
 
 ## Linear Regression to Predict MPG.  Deliverable 1:
